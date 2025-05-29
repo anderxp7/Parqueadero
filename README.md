@@ -20,3 +20,7 @@ Estas son las librerias que nos ayudan para que que el daño de los ataques camb
 
 Ya cuando la batalla termina, nos mandan un aviso de que somos ganadores o perdedores.
 Este es el codigo en general, muy sencillo pero cumple con los parametros propuestos.
+
+
+
+Thomas Gomez & Andres Padilla
