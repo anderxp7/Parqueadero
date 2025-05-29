@@ -4,7 +4,7 @@ Las entradas y las salidas están de color amarillo, las zonas libres están de 
 La libreria que utilice para los colores en la terminal es la libreria de colorama y usando la pateta de colorama pude marca cada espcaio un color para indicar mejro cada espacio
 
 
-#Pokemon
+# Pokemon
 El juego inspirado enel famoso juego de Pokemon esta en lenguaje de C++, esta con todas las bases de el juego, y los terminos que se utilizaron son muy basicos en nivel de progrogramacion, en este se puede ver la vida de un pokemos en especifico, su energia, que esta sirve para poder hacer ataques mas potentes, y un menu interactivo para que se pueda escoger que ataque que va hacer el pokemon y se muestra el daño que hace el mismo ataque, el codigo tiene algunas librerias adicionales a las convencionales ya que esta ayuda a hacer numeros aleatorios, en este caso el numero del daño no simpre es el mismo, puede ser critico o muy debil.
 
  Turno del oponente
